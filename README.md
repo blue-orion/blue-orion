@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-orion)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-orion&layout=compact)]
+(https://github.com/blue-orion)
 
 ## Hi there 👋
 It's My Profile..!

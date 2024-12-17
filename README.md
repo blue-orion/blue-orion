@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=태호&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header" />
 
 ## Hi there 👋
 It's My Profile..!

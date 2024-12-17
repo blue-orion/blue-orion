@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header" />
 
 ## Hi there 👋
 It's My Profile..!
@@ -11,3 +11,4 @@ It's My Profile..!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer" />
